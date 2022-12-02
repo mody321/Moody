@@ -14,7 +14,7 @@ def insertionSort(arr):
 		arr[j+1] = key
 
 
-arr = [17, 1, 13, 6, 20,30,25]
+arr = [19, 3, 17, 8, 93,27,83]
 insertionSort(arr)
 print(arr)
 
